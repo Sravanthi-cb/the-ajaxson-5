@@ -1,0 +1,52 @@
+
+.invalid-field {
+    border: 1px solid red;
+}
+.error-message {
+    color: red;
+}
+
+hr {
+  border-width: 1px;
+  display:block;
+  width:33%
+}
+h1 {
+  text-align:center;
+  background-color: #f2f2f2;
+  color: black;
+  width: 56%;
+  padding: 25px;
+  margin: auto;
+}
+#frm-grp{
+	display:block;
+	background-color: #f2f2f2;
+	width: 30%; 
+    padding: 25px;
+    margin: auto;
+	border-radius:5px;
+	text-align: left;
+}
+
+label {
+	font-weight:bold;
+}
+#button{
+	margin-left:450px;
+}
+input[type=submit] {
+    font-size: 14px;
+	border-radius:5px;
+	background-color: #3366cc;
+	color:white;
+	padding: 10px;
+
+}
+
+#img{
+	 width: 300px;
+     margin-left: 450px; 
+}
+
+
